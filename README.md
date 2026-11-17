@@ -78,18 +78,6 @@ python -m http.server 8000      # then visit http://localhost:8000
 
 **Roadmap.** Copy a `<li class="step reveal">`. Add `is-current` to highlight the active step.
 
-## Deployment
-
-Because the site is static, any static host works.
-
-**GitHub Pages:** open the repository on GitHub, go to *Settings → Pages*, choose *Deploy from a branch*, select `main` and `/ (root)`, then save. The site will be served at `https://faizanshafi25.github.io/MyResume/`.
-
-**Netlify or Vercel:** import the repository. No build command is needed, and the publish directory is the project root.
-
-## Browser support
-
-Current versions of Chrome, Edge, Firefox and Safari.
-
 ## Contact
 
 - GitHub: [@faizanshafi25](https://github.com/faizanshafi25)
