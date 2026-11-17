@@ -93,7 +93,7 @@ Current versions of Chrome, Edge, Firefox and Safari.
 ## Contact
 
 - GitHub: [@faizanshafi25](https://github.com/faizanshafi25)
-- Email: hello@faizanshafi.dev
+- Email: darfaixaan21@gmil.com
 
 ## License
 
