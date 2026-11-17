@@ -63,7 +63,7 @@ if (!prefersReducedMotion && 'IntersectionObserver' in window) {
 
 // Typing line in the hero (static when reduced motion is on) -----------------
 const typed = document.getElementById('typed');
-const phrases = ['BCA student', 'software testing experience', 'front-end learner', 'learning JavaScript'];
+const phrases = ['learning JavaScript' , 'front-end learner', 'working towards full-stack'];
 
 if (typed && !prefersReducedMotion) {
     let phrase = 0;
